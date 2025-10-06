@@ -1,0 +1,20 @@
+
+# Arquivos e Pastas do Eclipse
+.project
+.classpath
+.settings/
+
+# Output de compilação
+bin/
+target/
+*.class
+
+# Arquivos de Sistema Operacional (Windows/Mac) 
+.DS_Store
+
+# Logs e Arquivos Temporários
+*.log
+tmp/
+node_modules/
+
+src/main/webapp/assets/images/paleta-projeto.png

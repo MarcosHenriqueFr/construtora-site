@@ -1,0 +1,43 @@
+.bg-cor1 {
+    background-color: #0b2559;
+}
+
+.bg-cor2 {
+    background-color: #183b59;
+}
+
+.bg-cor3 {
+    background-color: #2a5159;
+}
+
+.bg-cor4 {
+    background-color: #327355;
+}
+
+.bg-cor5 {
+    background-color: #5c8c46;
+}
+
+.text-cor1 {
+    color: #0b2559;
+}
+
+.text-cor2 {
+    color: #183b59;
+}
+
+.text-cor3 {
+    color: #2a5159;
+}
+
+.text-cor4 {
+    color: #327355;
+}
+
+.text-cor5 {
+    color: #5c8c46;
+}
+
+.text-justify {
+    text-align: justify;
+}
