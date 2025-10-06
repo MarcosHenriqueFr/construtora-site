@@ -8,3 +8,11 @@
     height: 250px;
     overflow: hidden;
 }
+
+.background-simples {
+    background-image: url("../images/background-azul.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+}
