@@ -41,3 +41,11 @@
 .text-justify {
     text-align: justify;
 }
+
+.btn-portfolio:focus-visible {
+    background-color: #224147;
+}
+
+.btn-portfolio:hover {
+    background-color: #224147;
+}
