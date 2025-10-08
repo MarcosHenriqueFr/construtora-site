@@ -42,10 +42,10 @@
     text-align: justify;
 }
 
-.btn-portfolio:focus-visible {
-    background-color: #224147;
-}
-
-.btn-portfolio:hover {
+#btn-portfolio:focus,
+#btn-portfolio:focus-visible,
+#btn-portfolio:active,
+#btn-portfolio:hover,
+#btn-portfolio:target {
     background-color: #224147;
 }

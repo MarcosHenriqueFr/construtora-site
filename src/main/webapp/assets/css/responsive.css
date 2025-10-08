@@ -1,0 +1,6 @@
+@media (min-width: 992px) {
+    .carousel-inner > .carousel-item {
+        height: 60dvh;
+        overflow: hidden;
+    }
+}
